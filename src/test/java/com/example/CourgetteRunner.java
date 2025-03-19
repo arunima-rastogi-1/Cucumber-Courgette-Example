@@ -1,14 +1,13 @@
 package com.example;
 
 import courgette.api.CourgetteOptions;
-import courgette.api.RunLevel; // Ensure this import exists
+import courgette.api.Level; 
 import courgette.api.testng.TestNGCourgette;
 import io.cucumber.testng.CucumberOptions;
 
-
 @CourgetteOptions(
-        threads = 4, // Number of parallel threads
-        runLevel = CourgetteOptions.RunLevel.SCENARIO,
+        threads = 4, 
+        level = Level.SCENARIO,
         rerunFailedScenarios = true,
         showTestOutput = true,
         cucumberOptions = @CucumberOptions(
