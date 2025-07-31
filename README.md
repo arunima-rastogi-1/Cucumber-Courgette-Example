@@ -12,7 +12,7 @@ This repository contains a **Courgette** test runner configured with **Cucumber*
 
 ### 1️⃣ Prerequisites
 Ensure you have the following installed:
-- **Java** (JDK 8 or later)
+- **Java** (JDK 8 or later) 
 - **Maven** 
 
 
