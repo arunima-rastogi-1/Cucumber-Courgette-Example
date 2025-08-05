@@ -4,7 +4,7 @@ This repository contains a **Courgette** test runner configured with **Cucumber*
 
 ## 🚀 Features 
 - **Parallel Execution**: Runs scenarios in multiple threads.
-- **Automatic Retry**: Reruns failed scenarios.
+- **Automatic Retry**: Reruns failed scenarios. 
 - **Detailed Reporting**: Generates JSON and HTML reports. 
 - **TestNG Integration**: Uses `TestNGCourgette` for execution.
 
