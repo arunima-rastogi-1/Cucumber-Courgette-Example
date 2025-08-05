@@ -2,7 +2,7 @@
 
 This repository contains a **Courgette** test runner configured with **Cucumber** and **TestNG** to enable parallel execution of scenarios.
 
-## 🚀 Features
+## 🚀 Features 
 - **Parallel Execution**: Runs scenarios in multiple threads.
 - **Automatic Retry**: Reruns failed scenarios.
 - **Detailed Reporting**: Generates JSON and HTML reports.
