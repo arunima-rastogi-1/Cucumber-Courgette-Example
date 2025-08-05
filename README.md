@@ -8,7 +8,7 @@ This repository contains a **Courgette** test runner configured with **Cucumber*
 - **Detailed Reporting**: Generates JSON and HTML reports. 
 - **TestNG Integration**: Uses `TestNGCourgette` for execution.
 
-## 🛠️ Setup & Installation
+## 🛠️ Setup & Installation 
   
 ### 1️⃣ Prerequisites
 Ensure you have the following installed: 
