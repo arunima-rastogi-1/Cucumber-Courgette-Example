@@ -1,6 +1,6 @@
 # Courgette Test Runner    
 
-This repository contains a **Courgette** test runner configured with **Cucumber** and **TestNG** to enable parallel execution of scenarios.
+This repository contains a **Courgette** test runner configured with **Cucumber** and **TestNG** to enable parallel execution of scenarios. 
 
 ## 🚀 Features 
 - **Parallel Execution**: Runs scenarios in multiple threads.
