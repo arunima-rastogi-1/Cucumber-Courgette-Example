@@ -9,7 +9,7 @@ This repository contains a **Courgette** test runner configured with **Cucumber*
 - **TestNG Integration**: Uses `TestNGCourgette` for execution.
  
 ## 🛠️ Setup & Installation 
-  
+   
 ### 1️⃣ Prerequisites
 Ensure you have the following installed: 
 - **Java** (JDK 8 or later)  
